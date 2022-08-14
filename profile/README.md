@@ -1,7 +1,6 @@
 
 ## Hi there 👋
 
-<image src="https://cdn.discordapp.com/attachments/755488771306291211/1003792906538209340/github.png"> </image>
 
 <!--
 
