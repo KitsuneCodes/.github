@@ -2,8 +2,8 @@
 ## Hi there 👋
 <img src="https://cdn.discordapp.com/attachments/755488771306291211/1025429489796264078/banner.png"> </img>
 ### Projects:
-- [<img align="left" alt="MineSushi" width="52px" src="https://cdn.discordapp.com/attachments/755488771306291211/1025433238333837322/sushimclogo.png" /> **MineSushi**](https://strona.minesushi.pl/) - server minecraft version 1.19.2
-s
+- [<img align="left" alt="MineSushi" width="52px" src="https://cdn.discordapp.com/attachments/755488771306291211/1025433238333837322/sushimclogo.png" /> **MineSushi**](https://strona.minesushi.pl/) - server minecraft
+- version 1.19.2
 
 ### Programming Languages:
 > 🇵🇱 Używane przez nas języki programowania oraz środowiska:  
