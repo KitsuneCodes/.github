@@ -10,5 +10,6 @@
 <img align="left" alt="Html" width="32px" src="https://simpleicons.org/icons/html5.svg">
 <img align="left" alt="Intelj" width="32px" src="https://simpleicons.org/icons/intellijidea.svg">
 <img align="left" alt="WebStorm" width="32px" src="https://simpleicons.org/icons/webstorm.svg"> 
+<img align="left" alt="Visual" width="32px" src="https://simpleicons.org/icons/visualstudiocode.svg"> 
 <img align="left" alt="Photoshop" width="32px" src="https://simpleicons.org/icons/adobephotoshop.svg"> 
 
