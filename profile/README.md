@@ -2,7 +2,7 @@
 ## Hi there 👋
 <img src="https://cdn.discordapp.com/attachments/755488771306291211/1025443741319831704/github.png"> </img>
 ### Projects:
-- [<img align="left" alt="MineSushi" width="52px" src="https://cdn.discordapp.com/attachments/755488771306291211/1025433238333837322/sushimclogo.png" /> **MineSushi**](https://strona.minesushi.pl/) - server minecraft
+- [<img align="left" alt="MythMC" width="52px" src="https://cdn.discordapp.com/attachments/755488771306291211/1033161266463768586/mythmcl.png" /> **MythMC**](https://strona.mythmc.pl/) - server minecraft
 - version 1.19.2
 
 ### Programming Languages:
