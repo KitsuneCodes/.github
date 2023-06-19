@@ -1,9 +1,9 @@
 
-<img src="https://cdn.discordapp.com/attachments/1061086087809863881/1120474807809618000/d.png") >(https://mythmc.pl/)</img>
+<a href= "https://mythmc.pl/", img src="https://cdn.discordapp.com/attachments/1061086087809863881/1120474807809618000/d.png") >(https://mythmc.pl/)</img>
 
 ## Hi there 👋
 ### Projects:
-- [<img align="left" alt="MythMC" href= "https://mythmc.pl/ " width="52px" src="https://cdn.discordapp.com/attachments/755488771306291211/1033161266463768586/mythmcl.png"> - server minecraft
+- [<img align="left" alt="MythMC" width="52px" src="https://cdn.discordapp.com/attachments/755488771306291211/1033161266463768586/mythmcl.png"> - server minecraft
 - version 1.19.4
 
 ### Programming Languages:
