@@ -1,5 +1,5 @@
 
-<img>https://cdn.discordapp.com/attachments/1061086087809863881/1120474807809618000/d.png</img>
+<img src="https://cdn.discordapp.com/attachments/1061086087809863881/1120474807809618000/d.png"></img>
 
 ## Hi there 👋
 ### Projects:
