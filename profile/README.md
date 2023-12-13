@@ -1,6 +1,6 @@
 
 <a href="https://mythmc.pl">
-  <img src="[https://cdn.discordapp.com/attachments/1061086087809863881/1120474807809618000/d.png](https://cdn.discordapp.com/attachments/755488771306291211/1184605347051221052/bnks.png?ex=658c94b3&is=657a1fb3&hm=b418426b20b949262ad7b57e40ca60d5bdb8385d95bb2be0334e8b22188bf39d&)">
+  <img src="https://cdn.discordapp.com/attachments/1061086087809863881/1120474807809618000/d.png">
 </a>
 
 ## Hi there 👋
