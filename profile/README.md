@@ -1,6 +1,6 @@
 
-<a href="https://mythmc.pl">
-  <img src="https://cdn.discordapp.com/attachments/755488771306291211/1184605347051221052/bnks.png?ex=658c94b3&is=657a1fb3&hm=b418426b20b949262ad7b57e40ca60d5bdb8385d95bb2be0334e8b22188bf39d&">
+<a href="https://nethermc.pl">
+  <img src="https://cdn.discordapp.com/attachments/755488771306291211/1201950130438422608/to.png?ex=65cbae4a&is=65b9394a&hm=0ce708c62f75a3821e93b3eac3781e809ce963608c3c53821f5471f86c21e3f5&">
 </a>
 
 ## Hi there 👋
